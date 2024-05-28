@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1716924800 source:e:\database connection (2)\database connection\main.cpp
+	<iostream>
+	"sqlite3.h"
+	<cstring>
+	<windows.h>
+	<fstream>
+	<cctype>
+	<vector>
+	<iomanip>
+	<cstdlib>
+
+1716568670 e:\database connection (2)\database connection\sqlite3.h
+	<stdarg.h>
+
